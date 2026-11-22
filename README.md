@@ -9,7 +9,7 @@
 
 I build web apps, Android apps and desktop software, and I like taking a project from the first commit to something people can actually use.
 
-> <img src="assets/status-dot.svg" width="16" height="16" alt=""> **Currently looking for an OJT / internship** where I can learn from a real team and ship real work.
+> <img src="assets/status-dot.svg" width="18" height="18" align="absmiddle" alt=""> **Currently looking for an OJT / internship** where I can learn from a real team and ship real work.
 
 <a href="https://kenpatrickranis.vercel.app"><img src="https://img.shields.io/badge/Portfolio-45d33a?style=flat-square&logo=vercel&logoColor=0d120c" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ken-patrick-ranis-48b7a830b/"><img src="https://img.shields.io/badge/LinkedIn-1a1f1a?style=flat-square" alt="LinkedIn"></a>
