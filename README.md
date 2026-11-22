@@ -1,35 +1,126 @@
 <!-- GitHub profile README for Pb2kick -->
-<div align="center">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121412,100:45d33a&height=210&section=header&text=Ken%20Patrick%20Ranis&fontSize=46&fontColor=ecefe9&fontAlignY=36&desc=Software%20Developer&descSize=18&descAlignY=56" width="100%" alt="Ken Patrick Ranis, Software Developer">
+<sub>FINAL-YEAR IT STUDENT &nbsp;/&nbsp; SOFTWARE DEVELOPER</sub>
 
-<a href="https://kenpatrickranis.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=45D33A&center=true&vCenter=true&width=520&lines=Open+to+OJT+%2F+Internships;Final-year+IT+student;Full-stack+%C2%B7+Android+%C2%B7+Desktop" alt="Open to OJT / Internships">
-</a>
+# Ken Patrick Ranis
 
-🎓 Final-year IT student &nbsp;·&nbsp; 💻 Web, Android & desktop apps
+I build web apps, Android apps and desktop software, and I like taking a project from the first commit to something people can actually use.
 
-<a href="https://kenpatrickranis.vercel.app"><img src="https://img.shields.io/badge/Portfolio-45d33a?style=for-the-badge&logo=vercel&logoColor=0d120c" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/ken-patrick-ranis-48b7a830b/"><img src="https://img.shields.io/badge/LinkedIn-121412?style=for-the-badge&logo=linkedin&logoColor=45d33a" alt="LinkedIn"></a>
-<a href="mailto:kenpatrick.ranis@gmail.com"><img src="https://img.shields.io/badge/Email-121412?style=for-the-badge&logo=gmail&logoColor=45d33a" alt="Email"></a>
+> 🟢 **Currently looking for an OJT / internship** where I can learn from a real team and ship real work.
 
-<br>
+<a href="https://kenpatrickranis.vercel.app"><img src="https://img.shields.io/badge/Portfolio-45d33a?style=flat-square&logo=vercel&logoColor=0d120c" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/ken-patrick-ranis-48b7a830b/"><img src="https://img.shields.io/badge/LinkedIn-1a1f1a?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:kenpatrick.ranis@gmail.com"><img src="https://img.shields.io/badge/Email-1a1f1a?style=flat-square&logo=gmail&logoColor=45d33a" alt="Email"></a>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,py,ts,js,rust,html,css,react,spring,django,tailwind,vite,tauri,postgres,sqlite,supabase,androidstudio,git,github,vercel&perline=11&theme=dark" alt="Java, Kotlin, Python, TypeScript, JavaScript, Rust, HTML, CSS, React, Spring Boot, Django, Tailwind CSS, Vite, Tauri, PostgreSQL, SQLite, Supabase, Android Studio, Git, GitHub, Vercel">
+</td>
+<td width="38%" align="center" valign="top">
+<img src="assets/ken-portrait.webp" width="220" alt="Ken Patrick Ranis giving a thumbs up, with a small robot figure on his shoulder">
+</td>
+</tr>
+</table>
 
-</div>
+## Tech I've worked with
 
-### 👋 About me
+<table>
+<tr>
+<td width="24%"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-1a1f1a?style=flat-square&logo=openjdk&logoColor=45d33a" alt="Java">
+<img src="https://img.shields.io/badge/Kotlin-1a1f1a?style=flat-square&logo=kotlin&logoColor=45d33a" alt="Kotlin">
+<img src="https://img.shields.io/badge/Python-1a1f1a?style=flat-square&logo=python&logoColor=45d33a" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-1a1f1a?style=flat-square&logo=typescript&logoColor=45d33a" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-1a1f1a?style=flat-square&logo=javascript&logoColor=45d33a" alt="JavaScript">
+<img src="https://img.shields.io/badge/Rust-1a1f1a?style=flat-square&logo=rust&logoColor=45d33a" alt="Rust">
+<img src="https://img.shields.io/badge/HTML-1a1f1a?style=flat-square&logo=html5&logoColor=45d33a" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1a1f1a?style=flat-square&logo=css&logoColor=45d33a" alt="CSS">
+</td>
+</tr>
+<tr>
+<td><b>Frameworks &amp; libraries</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-1a1f1a?style=flat-square&logo=react&logoColor=45d33a" alt="React">
+<img src="https://img.shields.io/badge/Spring%20Boot-1a1f1a?style=flat-square&logo=springboot&logoColor=45d33a" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Django-1a1f1a?style=flat-square&logo=django&logoColor=45d33a" alt="Django">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-1a1f1a?style=flat-square&logo=tailwindcss&logoColor=45d33a" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Vite-1a1f1a?style=flat-square&logo=vite&logoColor=45d33a" alt="Vite">
+<img src="https://img.shields.io/badge/Capacitor-1a1f1a?style=flat-square&logo=capacitor&logoColor=45d33a" alt="Capacitor">
+<img src="https://img.shields.io/badge/Tauri-1a1f1a?style=flat-square&logo=tauri&logoColor=45d33a" alt="Tauri">
+</td>
+</tr>
+<tr>
+<td><b>Data &amp; platforms</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1f1a?style=flat-square&logo=postgresql&logoColor=45d33a" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQLite-1a1f1a?style=flat-square&logo=sqlite&logoColor=45d33a" alt="SQLite">
+<img src="https://img.shields.io/badge/Supabase-1a1f1a?style=flat-square&logo=supabase&logoColor=45d33a" alt="Supabase">
+<img src="https://img.shields.io/badge/Android-1a1f1a?style=flat-square&logo=android&logoColor=45d33a" alt="Android">
+<img src="https://img.shields.io/badge/Vercel-1a1f1a?style=flat-square&logo=vercel&logoColor=45d33a" alt="Vercel">
+<img src="https://img.shields.io/badge/Render-1a1f1a?style=flat-square&logo=render&logoColor=45d33a" alt="Render">
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-1a1f1a?style=flat-square&logo=git&logoColor=45d33a" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-1a1f1a?style=flat-square&logo=github&logoColor=45d33a" alt="GitHub">
+<img src="https://img.shields.io/badge/JUnit%205-1a1f1a?style=flat-square&logo=junit5&logoColor=45d33a" alt="JUnit 5">
+<img src="https://img.shields.io/badge/Claude-1a1f1a?style=flat-square&logo=claude&logoColor=45d33a" alt="Claude">
+<img src="https://img.shields.io/badge/Codex-1a1f1a?style=flat-square" alt="Codex">
+<img src="https://img.shields.io/badge/Antigravity-1a1f1a?style=flat-square" alt="Antigravity">
+</td>
+</tr>
+</table>
 
-I'm looking for an **OJT / internship** where I can learn from a real team and ship real work. I build across the stack, from web apps with React, Django and Spring Boot to Android apps in Kotlin and desktop software in Java, and I like taking a project from the first commit to something people can actually use.
+## Selected projects
 
-### 📌 Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**Gallus (FeedSmart)**](https://github.com/Xeldia/FeedSmart) | Offline-first farm management for layer-hen farms. Capstone project. | React · Capacitor · Tauri · Supabase |
-| [**NewsHub**](https://github.com/Pb2kick/NewsHub) | A civic news and election platform | React · Spring Boot · PostgreSQL |
-| [**FitCampus**](https://github.com/Pb2kick/FitCampus) | An offline workout planner built around class schedules | Kotlin · Android · Room |
-| [**AMBOT**](https://github.com/Pb2kick/OOP2) | A 2D side-scrolling platformer | Java · Swing |
+**01 / [Gallus (FeedSmart)](https://github.com/Xeldia/FeedSmart)**<br>
+<sub>Capstone · 5-person team</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45d33a,100:121412&height=110&section=footer" width="100%" alt="">
+Offline-first farm management for layer-hen farms, with an Android app for staff and a desktop app for the owner.
+
+`React` `Capacitor` `Tauri` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+**02 / [NewsHub](https://github.com/Pb2kick/NewsHub)**<br>
+<sub>Full-stack web app</sub>
+
+A civic news and election platform with location-aware news, candidate pages and a verified voting flow.
+
+`React` `Spring Boot` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / [FitCampus](https://github.com/Pb2kick/FitCampus)**<br>
+<sub>Android app · 2-person team</sub>
+
+An offline workout planner that fits training into the free time between a student's classes.
+
+`Kotlin` `Android` `Room`
+
+</td>
+<td width="50%" valign="top">
+
+**04 / [AMBOT](https://github.com/Pb2kick/OOP2)**<br>
+<sub>Java game · 5-person team</sub>
+
+A 2D side-scrolling platformer in Java and Swing that I'm restoring and finishing one world at a time.
+
+`Java` `Swing` `JUnit`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>More of my work, with live demos, at <a href="https://kenpatrickranis.vercel.app">kenpatrickranis.vercel.app</a></sub></p>
