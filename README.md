@@ -1,3 +1,4 @@
+<!-- GitHub profile README for Pb2kick -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121412,100:45d33a&height=210&section=header&text=Ken%20Patrick%20Ranis&fontSize=46&fontColor=ecefe9&fontAlignY=36&desc=Software%20Developer&descSize=18&descAlignY=56" width="100%" alt="Ken Patrick Ranis, Software Developer">
