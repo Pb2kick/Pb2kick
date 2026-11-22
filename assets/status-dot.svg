@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <style>
+    /* A soft ring that grows and fades from the dot, like the portfolio's status dot. */
+    .ring { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse {
+      0%   { transform: scale(1);    opacity: .45; }
+      70%  { transform: scale(1.9);  opacity: 0; }
+      100% { transform: scale(1.9);  opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) { .ring { animation: none; opacity: 0; } }
+  </style>
+  <circle class="ring" cx="8" cy="8" r="4" fill="#45d33a"/>
+  <circle cx="8" cy="8" r="4" fill="#45d33a"/>
+</svg>
